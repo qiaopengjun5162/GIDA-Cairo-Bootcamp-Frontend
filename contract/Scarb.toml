@@ -17,3 +17,5 @@ sierra = true
 
 [scripts]
 test = "snforge test"
+
+# https://sepolia.voyager.online/contract/0x03efd6a3549a0ea66468ba7f87d177bf2f18cb19ae7bba907f14f5897b9d9ed2
