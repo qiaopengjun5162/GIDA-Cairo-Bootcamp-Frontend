@@ -39,7 +39,7 @@ export default function Home() {
         <div className="mt-[60px]">
           <div className="flex justify-between items-center">
             {/* TODO: - Pass correct students length */}
-            <TotalStudents total={allStudents?.length} />
+            <TotalStudents total={allStudents?.length || 0} />
             <Balance />
           </div>
           {/* TODO: - Pass correct students */}
